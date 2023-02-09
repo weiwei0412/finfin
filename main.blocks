@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="br1.bgMFl#FlB1mLMP6i" x="327" y="-26"><field name="NAME">Button.A</field></block><block type="device_forever" id="MCwM.Fm[TVLwG]u~1%;c" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="U}y$J[h}{VnT[x5-U%w%"><value name="number"><shadow type="math_number" id="`Xm?xb$r(@`{*m~d@dF5"><field name="NUM">20230209</field></shadow></value><next><block type="device_print_message" id="911]Tu)-eW+cNP+5?}4c"><value name="text"><shadow type="text" id="#t]g1ytOeV#-:l8m}:3d"><field name="TEXT">happy birthday to you !</field></shadow></value><next><block type="device_print_message" id="5t*m9S?Yn~xzA,;}0hHU"><value name="text"><shadow type="text" id="Zq^PuLia!vwJG#i}@GLv"><field name="TEXT">FINFIN</field></shadow></value><next><block type="device_clear_display" id="^y]5{[%w)-Fp;6V~;k4:"><next><block type="device_show_leds" id="aT_Cyq=~@zMtuqi%p^|9"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id=":t/#Nq00Juh=f*{6Ys72"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="u9BID,_j,/q7P$gN%}tQ"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="4xV]O8Fe.!_YUtjjQV%{"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="0[`$+T6:y=!n~hOlRz9Z"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="9O~VX8Cnf]%#xGH?Ej0b" x="458" y="78"><field name="NAME">Button.AB</field></block><block type="device_button_event" id="S?BafHj3~(UbGI#8]bXN" x="219" y="190"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_start_melody" id="ca7Ki:-#iY#;8l_r{!1`"><field name="options">MelodyOptions.Once</field><value name="melody"><block type="device_builtin_melody" id="(PT*.XL0F.2zOZfT|16}"><field name="melody">Melodies.Birthday</field></block></value></block></statement></block></xml>
